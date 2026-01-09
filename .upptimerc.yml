@@ -8,7 +8,7 @@ sites:
   - name: KOJE ARCHIVE
     url: https://arsip.manji.eu.org/
   - name: SendTheLink
-    url: https://sendthelink.vercel.app/
+    url: https://stl.manji.eu.org/
   - name: Kita Tidak Akan Asing
     url: https://kita.fan.my.id/
   - name: Cloudflare Email Pannel
