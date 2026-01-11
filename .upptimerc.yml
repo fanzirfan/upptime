@@ -13,6 +13,9 @@ sites:
     url: https://kita.fan.my.id/
   - name: Cloudflare Email Pannel
     url: https://app.madshin.eu.org/
+  - name: MyFinance
+    url: https://duit.fan.my.id/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
