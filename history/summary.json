@@ -4,9 +4,9 @@
     "url": "https://www.fan.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fan.my.id.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 449,
     "timeMonth": 403,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 0
+    }
   },
   {
     "name": "KOJE ARCHIVE",
@@ -40,18 +42,19 @@
     "url": "https://stl.manji.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/stl.manji.eu.org.ico",
     "slug": "send-the-link",
-    "status": "up",
-    "uptime": "97.41%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.44%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.41%",
+    "uptimeYear": "97.44%",
     "time": 1178,
     "timeDay": 465,
     "timeWeek": 967,
     "timeMonth": 1101,
     "timeYear": 1178,
     "dailyMinutesDown": {
+      "2026-03-01": 0,
       "2026-01-09": 1125,
       "2026-01-08": 803
     }
@@ -61,9 +64,9 @@
     "url": "https://kita.fan.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/kita.fan.my.id.ico",
     "slug": "kita-tidak-akan-asing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +75,9 @@
     "timeWeek": 446,
     "timeMonth": 334,
     "timeYear": 338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 0
+    }
   },
   {
     "name": "Cloudflare Email Pannel",
@@ -97,9 +102,9 @@
     "url": "https://duit.fan.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/duit.fan.my.id.ico",
     "slug": "my-finance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,6 +113,8 @@
     "timeWeek": 1003,
     "timeMonth": 819,
     "timeYear": 765,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 0
+    }
   }
 ]
