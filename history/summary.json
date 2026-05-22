@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 373,
-    "timeDay": 438,
-    "timeWeek": 560,
-    "timeMonth": 422,
+    "timeDay": 422,
+    "timeWeek": 541,
+    "timeMonth": 421,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2026-03-01": 25
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 4718,
-    "timeWeek": 902,
-    "timeMonth": 414,
-    "timeYear": 317,
+    "time": 316,
+    "timeDay": 2438,
+    "timeWeek": 809,
+    "timeMonth": 406,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.99%",
-    "time": 1003,
-    "timeDay": 576,
-    "timeWeek": 666,
-    "timeMonth": 1021,
-    "timeYear": 1003,
+    "time": 1004,
+    "timeDay": 850,
+    "timeWeek": 723,
+    "timeMonth": 1025,
+    "timeYear": 1004,
     "dailyMinutesDown": {
       "2026-03-01": 25,
       "2026-01-09": 1125,
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 345,
-    "timeDay": 277,
-    "timeWeek": 358,
-    "timeMonth": 362,
-    "timeYear": 345,
+    "time": 346,
+    "timeDay": 384,
+    "timeWeek": 375,
+    "timeMonth": 366,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2026-03-01": 25
     }
@@ -90,31 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 162,
-    "timeWeek": 208,
-    "timeMonth": 675,
-    "timeYear": 381,
+    "time": 379,
+    "timeDay": 172,
+    "timeWeek": 204,
+    "timeMonth": 659,
+    "timeYear": 379,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "MyFinance",
-    "url": "https://duit.fan.my.id/",
-    "icon": "https://icons.duckduckgo.com/ip3/duit.fan.my.id.ico",
-    "slug": "my-finance",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 693,
-    "timeDay": 378,
-    "timeWeek": 764,
-    "timeMonth": 705,
-    "timeYear": 693,
-    "dailyMinutesDown": {
-      "2026-03-01": 25
-    }
   }
 ]
