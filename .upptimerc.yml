@@ -13,8 +13,6 @@ sites:
     url: https://kita.fan.my.id/
   - name: Cloudflare Email Pannel
     url: https://app.madshin.eu.org/
-  - name: MyFinance
-    url: https://duit.fan.my.id/
 
 
 status-website:
