@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 339,
-    "timeDay": 272,
-    "timeWeek": 304,
-    "timeMonth": 309,
-    "timeYear": 339,
+    "time": 340,
+    "timeDay": 459,
+    "timeWeek": 307,
+    "timeMonth": 307,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2026-03-01": 25
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 187,
-    "timeWeek": 374,
-    "timeMonth": 293,
+    "timeDay": 276,
+    "timeWeek": 292,
+    "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -43,14 +43,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/stl.manji.eu.org.ico",
     "slug": "send-the-link",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 905,
-    "timeDay": 892,
-    "timeWeek": 847,
+    "timeDay": 860,
+    "timeWeek": 832,
     "timeMonth": 846,
     "timeYear": 905,
     "dailyMinutesDown": {
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 327,
-    "timeDay": 425,
+    "timeDay": 333,
     "timeWeek": 303,
-    "timeMonth": 340,
+    "timeMonth": 347,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2026-03-01": 25
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 253,
-    "timeWeek": 310,
-    "timeMonth": 318,
+    "timeDay": 278,
+    "timeWeek": 309,
+    "timeMonth": 315,
     "timeYear": 336,
     "dailyMinutesDown": {}
   }
